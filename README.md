@@ -1,0 +1,2 @@
+# Syntax_and_semantics
+Rustの1つ1つの概念をバラして勉強していく
